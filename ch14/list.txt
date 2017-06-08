@@ -1,0 +1,4 @@
+/home/shuhaib/Think_python/ch14/sd.mp3
+/home/shuhaib/Think_python/ch14/Teri Khair Mangdi - Bilal Saeed (320kbps).mp3
+/home/shuhaib/Think_python/ch14/Dekha Hazaro Dafaa-(Mr-Jatt.com).mp3
+/home/shuhaib/Think_python/ch14/sanam re.mp3

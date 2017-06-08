@@ -1,0 +1,22 @@
+files :a.py
+files :b.py
+directory : ch13
+files :exe_1.py
+files :full.txt
+directory : ch14
+files :exe_1.py
+files :half.txt
+files :ex_1.py
+directory : test1
+directory : __pycache__
+files :stopword.cpython-35.pyc
+files :read_text.txt
+files :new1.txt
+files :ex_2.py
+files :stopword.py
+files :punct_remover2.py
+files :punct_remover.py
+files :punct_contain.txtremoved.txt
+files :punct_contain.txt
+files :output.txt
+files :files_1.py

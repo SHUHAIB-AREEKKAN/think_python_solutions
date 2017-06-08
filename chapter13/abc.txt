@@ -1,0 +1,9 @@
+This is test for regular exp.,
+and this will be carried with in the func
+and 
+
+so the main agenda get function works with it and all data will be
+privide in styles and all aspcts will be works and toatal will be 
+in test so its ,{},# and so on 
+it will be tested aspect of tab or space and the new line function
+
